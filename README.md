@@ -89,11 +89,12 @@ Where:
 
 ## 📈 Visualization
 
-### Histogram of Heights
-histogram.png
+## 📊 Histogram
+![Histogram](histogram.png)
 
-### Height per Satellite
-satellite_plot.png
+## 📈 Satellite Plot
+![Satellites](satellite_plot.png)
+
 
 ---
 
